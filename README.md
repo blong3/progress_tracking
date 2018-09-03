@@ -15,3 +15,5 @@
 
 9/3/18
 * Brush up on Javascript 
+* Brush up on bootstrap
+* Backup and reset webhost for fresh work environment
