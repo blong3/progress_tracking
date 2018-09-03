@@ -1,10 +1,14 @@
 ## Using this file to track progress on projects and tutorials.
 
 9/1/18
-    *Create list of tutorials and projects to follow
-    *Catch up on current best practices, new laguages & frameworks
+
+*Create list of tutorials and projects to follow
+*Catch up on current best practices, new laguages & frameworks
+
 9/2/18
-    *Set up fresh local server on mac to test pages 
-    *Connect SQL to localhost
-    *Practice git 
-        
+*Set up fresh local server on mac to test pages 
+*Connect SQL to localhost
+*Practice git 
+1. Connect git to text editor
+2. Learn markdown 
+3. Push updates to github via VSC
