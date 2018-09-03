@@ -12,3 +12,6 @@
   * Connect git to text editor
   * Learn markdown & sytax
   * Push updates to github via VSC
+
+9/3/18
+* Brush up on Javascript 
