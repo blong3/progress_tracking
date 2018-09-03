@@ -10,3 +10,9 @@ This list is a way to keep track of any projects I have planned or random ideas 
 * Blog post website to replace README updates
   * User logins, data storage, responsive
   * Security
+
+* Fork projects from GitHub and improve them.
+
+* Languages, Frameworks, Concepts to Learn:
+  * Vue.js
+  * Single-page-applications
