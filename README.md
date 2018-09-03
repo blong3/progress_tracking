@@ -9,6 +9,6 @@
 * Set up fresh local server on mac to test pages 
 * Connect SQL to localhost
 * Practice git 
-1. Connect git to text editor
-2. Learn markdown 
-3. Push updates to github via VSC
+  * Connect git to text editor
+  * Learn markdown & sytax
+  * Push updates to github via VSC
