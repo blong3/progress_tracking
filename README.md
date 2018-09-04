@@ -17,3 +17,4 @@
 * Brush up on Javascript 
 * Brush up on bootstrap
 * Backup and reset webhost for fresh work environment
+* Create coming soon page
